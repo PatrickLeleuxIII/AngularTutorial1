@@ -1,3 +1,8 @@
+This project is the result of following the angular tutorial shown here https://angular.io/tutorial/first-app in and posted here in order to prove that I am able to create Angular projects with moderate proficiency.
+
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
